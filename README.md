@@ -1,3 +1,5 @@
+# Link de visualisação do site https://sthivemmartins.github.io/ecommerce-syntaxwear/
+
 # SyntaxWear - Ecommerce de Tênis e Sneakers
 
 Este projeto é um site de ecommerce focado em tênis e sneakers, com navegação moderna, layout responsivo e organização por categorias, outlet, lojas e área institucional.
